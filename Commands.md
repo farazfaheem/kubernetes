@@ -1,17 +1,15 @@
 # Commands
-Kubectl commands below 
 
+Kubectl commands below
 
+## List Commands
 
-##  List Commands          
 '''bash
-kubectl get namespaces 
-kubectl get nodes      
-kubectl get pods       
+kubectl get namespaces
+kubectl get nodes
+kubectl get pods
 kubectl get deployments
-kubectl get jobs       
-kubectl get cronjobs   
-kubectl get services   
+kubectl get jobs
+kubectl get cronjobs
+kubectl get services
 '''
-
-
